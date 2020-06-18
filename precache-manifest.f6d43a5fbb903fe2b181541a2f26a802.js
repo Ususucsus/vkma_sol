@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e364e340ba44393897a403d645b9fbfd",
+    "revision": "e29a67521e8421a1431b64fa64615eea",
     "url": "/vkma_sol/index.html"
   },
   {
-    "revision": "f08cfc484a9377b89a30",
+    "revision": "b095cd258579e2bdc836",
     "url": "/vkma_sol/static/css/2.6bab1db4.chunk.css"
   },
   {
-    "revision": "f08cfc484a9377b89a30",
-    "url": "/vkma_sol/static/js/2.6ae8186f.chunk.js"
+    "revision": "b095cd258579e2bdc836",
+    "url": "/vkma_sol/static/js/2.6a8c1a6e.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/vkma_sol/static/js/2.6ae8186f.chunk.js.LICENSE.txt"
+    "url": "/vkma_sol/static/js/2.6a8c1a6e.chunk.js.LICENSE.txt"
   },
   {
     "revision": "72e18316294f5f9c928e",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vkma_sol/static/js/4.76b661ba.chunk.js"
   },
   {
-    "revision": "12b13cb8951110aa2925",
-    "url": "/vkma_sol/static/js/main.02d29297.chunk.js"
+    "revision": "612c6e938a8c1fdaa8b4",
+    "url": "/vkma_sol/static/js/main.5c58390f.chunk.js"
   },
   {
     "revision": "333b6232886df5f457b4",
