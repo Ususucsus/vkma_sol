@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/vkma_sol/static/js/main.1aec2016.chunk.js",
-    "main.js.map": "/vkma_sol/static/js/main.1aec2016.chunk.js.map",
+    "main.js": "/vkma_sol/static/js/main.1f6c164c.chunk.js",
+    "main.js.map": "/vkma_sol/static/js/main.1f6c164c.chunk.js.map",
     "runtime-main.js": "/vkma_sol/static/js/runtime-main.91eb3107.js",
     "runtime-main.js.map": "/vkma_sol/static/js/runtime-main.91eb3107.js.map",
     "static/css/2.6bab1db4.chunk.css": "/vkma_sol/static/css/2.6bab1db4.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/4.7ebd7664.chunk.js": "/vkma_sol/static/js/4.7ebd7664.chunk.js",
     "static/js/4.7ebd7664.chunk.js.map": "/vkma_sol/static/js/4.7ebd7664.chunk.js.map",
     "index.html": "/vkma_sol/index.html",
-    "precache-manifest.b2702bdceb68bc8b4e0368f540729711.js": "/vkma_sol/precache-manifest.b2702bdceb68bc8b4e0368f540729711.js",
+    "precache-manifest.388708e37c916605e535fedad5b06cde.js": "/vkma_sol/precache-manifest.388708e37c916605e535fedad5b06cde.js",
     "service-worker.js": "/vkma_sol/service-worker.js",
     "static/css/2.6bab1db4.chunk.css.map": "/vkma_sol/static/css/2.6bab1db4.chunk.css.map",
     "static/js/2.2a865680.chunk.js.LICENSE.txt": "/vkma_sol/static/js/2.2a865680.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.91eb3107.js",
     "static/css/2.6bab1db4.chunk.css",
     "static/js/2.2a865680.chunk.js",
-    "static/js/main.1aec2016.chunk.js"
+    "static/js/main.1f6c164c.chunk.js"
   ]
 }
