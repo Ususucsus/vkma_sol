@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "379223afbd16256e09614e81a588bf82",
+    "revision": "7d24481509440d5f8cfdf4403d39c5c4",
     "url": "/vkma_sol/index.html"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vkma_sol/static/js/4.7ebd7664.chunk.js"
   },
   {
-    "revision": "8a53925615bb9aacb518",
-    "url": "/vkma_sol/static/js/main.1f6c164c.chunk.js"
+    "revision": "92a2e461e6df125f9151",
+    "url": "/vkma_sol/static/js/main.7a0e7d0d.chunk.js"
   },
   {
     "revision": "5976e1832c8433cc384b",
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cfb49f55eb8da55ee5e66a7587b12849",
     "url": "/vkma_sol/static/media/empty.cfb49f55.svg"
+  },
+  {
+    "revision": "a32792fdc9ae8c588e18fbf75c33cef7",
+    "url": "/vkma_sol/static/media/sign_in.a32792fd.svg"
   }
 ]);
