@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.js": "/vkma_sol/static/js/main.166122ce.chunk.js",
-    "main.js.map": "/vkma_sol/static/js/main.166122ce.chunk.js.map",
+    "main.js": "/vkma_sol/static/js/main.1aec2016.chunk.js",
+    "main.js.map": "/vkma_sol/static/js/main.1aec2016.chunk.js.map",
     "runtime-main.js": "/vkma_sol/static/js/runtime-main.91eb3107.js",
     "runtime-main.js.map": "/vkma_sol/static/js/runtime-main.91eb3107.js.map",
     "static/css/2.6bab1db4.chunk.css": "/vkma_sol/static/css/2.6bab1db4.chunk.css",
-    "static/js/2.f548bbc4.chunk.js": "/vkma_sol/static/js/2.f548bbc4.chunk.js",
-    "static/js/2.f548bbc4.chunk.js.map": "/vkma_sol/static/js/2.f548bbc4.chunk.js.map",
+    "static/js/2.2a865680.chunk.js": "/vkma_sol/static/js/2.2a865680.chunk.js",
+    "static/js/2.2a865680.chunk.js.map": "/vkma_sol/static/js/2.2a865680.chunk.js.map",
     "static/js/3.0e1a0de9.chunk.js": "/vkma_sol/static/js/3.0e1a0de9.chunk.js",
     "static/js/3.0e1a0de9.chunk.js.map": "/vkma_sol/static/js/3.0e1a0de9.chunk.js.map",
     "static/js/4.7ebd7664.chunk.js": "/vkma_sol/static/js/4.7ebd7664.chunk.js",
     "static/js/4.7ebd7664.chunk.js.map": "/vkma_sol/static/js/4.7ebd7664.chunk.js.map",
     "index.html": "/vkma_sol/index.html",
-    "precache-manifest.5df6f125fa62bd8751c4c0405727810c.js": "/vkma_sol/precache-manifest.5df6f125fa62bd8751c4c0405727810c.js",
+    "precache-manifest.b2702bdceb68bc8b4e0368f540729711.js": "/vkma_sol/precache-manifest.b2702bdceb68bc8b4e0368f540729711.js",
     "service-worker.js": "/vkma_sol/service-worker.js",
     "static/css/2.6bab1db4.chunk.css.map": "/vkma_sol/static/css/2.6bab1db4.chunk.css.map",
-    "static/js/2.f548bbc4.chunk.js.LICENSE.txt": "/vkma_sol/static/js/2.f548bbc4.chunk.js.LICENSE.txt",
+    "static/js/2.2a865680.chunk.js.LICENSE.txt": "/vkma_sol/static/js/2.2a865680.chunk.js.LICENSE.txt",
     "static/js/3.0e1a0de9.chunk.js.LICENSE.txt": "/vkma_sol/static/js/3.0e1a0de9.chunk.js.LICENSE.txt",
+    "static/media/contacts.64fb8a6c.svg": "/vkma_sol/static/media/contacts.64fb8a6c.svg",
     "static/media/empty.cfb49f55.svg": "/vkma_sol/static/media/empty.cfb49f55.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.91eb3107.js",
     "static/css/2.6bab1db4.chunk.css",
-    "static/js/2.f548bbc4.chunk.js",
-    "static/js/main.166122ce.chunk.js"
+    "static/js/2.2a865680.chunk.js",
+    "static/js/main.1aec2016.chunk.js"
   ]
 }
