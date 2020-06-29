@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "770bc8bccd2f434788e0bfe0cb2b3ab8",
+    "revision": "f862b7e28728ff5884c478d0be7713fa",
     "url": "/vkma_sol/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vkma_sol/static/js/2.6228ddef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c62997ab0aec82bffc09",
-    "url": "/vkma_sol/static/js/main.5d00b48e.chunk.js"
+    "revision": "fa4e1c10a31e5b1cb397",
+    "url": "/vkma_sol/static/js/main.bdc5926a.chunk.js"
   },
   {
     "revision": "ea18a72091fa0ee13065",
